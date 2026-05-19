@@ -1,13 +1,13 @@
 <div align="center">
 
-```
-██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗
-██║     ██║   ██║██╔════╝██╔══██╗██╔════╝
-██║     ██║   ██║██║     ███████║███████╗
-██║     ██║   ██║██║     ██╔══██║╚════██║
-███████╗╚██████╔╝╚██████╗██║  ██║███████║
-╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝
-```
+# ⚡ Lucas Rodrigues
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;ADS+Student;Building+The+Future+With+Code+⚡"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge"/>
+
 
 # Lucas José Couto Rodrigues
 
