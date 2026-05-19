@@ -22,33 +22,6 @@
 
 ---
 
-# 🧠 Sobre mim
-
-```javascript
-const lucas = {
-  nome: "Lucas Rodrigues",
-  idade: 19,
-  local: "Rio de Janeiro, Brasil",
-
-  tecnologias: [
-    "HTML5",
-    "CSS3",
-    "JavaScript",
-    "Python",
-    "C",
-    "PHP",
-    "Banco de Dados"
-  ],
-
-  foco: [
-    "Full Stack",
-    "Backend",
-    "Cybersecurity"
-  ]
-}
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
