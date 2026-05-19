@@ -1,56 +1,54 @@
-# 👋 Fala, eu sou Lucas Rodrigues
+<div align="center">
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Focado em Desenvolvimento Web e Cybersecurity  
-🥋 Lutador de MMA/Jiu-Jitsu  
-📍 Rio de Janeiro, Brasil
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0f0f,25:0011ff,50:00f7ff,75:0011ff,100:0f0f0f&text=Lucas%20Rodrigues&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;ADS+Student;Building+The+Future+With+Code+⚡"/>
 
-## 🚀 Tecnologias que estou aprendendo
+<br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge"/>
 
-  <img align="center" alt="CSS" height="40" width="50"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-  <img align="center" alt="JS" height="40" width="50"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-  <img align="center" alt="PHP" height="40" width="50"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-
-  <img align="center" alt="Git" height="40" width="50"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ---
 
-## 📊 Estatísticas
+<div align="center">
 
-<div>
-  <a href="https://github.com/SEUUSUARIO">
-  <img height="180em"
-   src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+# ⚡ ABOUT ME
 
-  <img height="180em"
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
----
+```javascript
+class LucasRodrigues {
+  constructor() {
+    this.name = "Lucas Rodrigues";
+    this.age = 19;
+    this.location = "Rio de Janeiro, Brasil";
 
-## 🌎 Contato
+    this.skills = [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Python",
+      "C",
+      "PHP",
+      "Banco de Dados"
+    ];
 
-<a href="https://www.linkedin.com/in/lucasrodrigues-rd/">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+    this.focus = [
+      "Full Stack Development",
+      "Backend",
+      "Cybersecurity",
+      "Performance",
+      "APIs"
+    ];
+  }
 
-<a href="mailto:rdlucas61@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+  lifeGoal() {
+    return "Se tornar referência na tecnologia 🚀";
+  }
+}
 
----
+const lucas = new LucasRodrigues();
 
-🔥 “Construindo meu futuro uma linha de código por vez.”
+console.log(lucas.lifeGoal());
