@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**LucasRodriguessDev/LucasRodriguessDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ Lucas Rodrigues
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;ADS+Student;Rio+de+Janeiro+🇧🇷" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0047FF&height=180&section=header"/>
+
+</div>
+
+---
+
+# 💻 Stack Principal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,c,python,php,mysql,git,vscode" />
+
+</div>
+
+---
+
+# 🧠 Sobre mim
+
+```javascript
+const lucas = {
+  nome: "Lucas Rodrigues",
+  idade: 19,
+  local: "Rio de Janeiro, Brasil",
+
+  stack: [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "C",
+    "Python",
+    "PHP",
+    "Banco de Dados"
+  ],
+
+  foco: [
+    "Full Stack",
+    "Backend",
+    "Cybersecurity",
+    "Web Development"
+  ]
+}
