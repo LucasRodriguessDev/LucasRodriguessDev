@@ -45,18 +45,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lucasrodrigues-rd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrodrigues-rd&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 
 ---
 
@@ -78,25 +66,22 @@ const lucas = {
     "Banco de Dados"
   ],
 
-  foco: [
-    "Full Stack",
-    "Backend",
-    "Cybersecurity"
-  ]
+  foco: {
+    area: [
+      "Full Stack",
+      "Backend",
+      "Cybersecurity"
+    ],
+
+    atualmente: [
+      "Estruturas de Dados & Algoritmos",
+      "Projetos reais com Python e JavaScript",
+      "Boas práticas e código limpo"
+    ],
+
+    objetivo: "Engenheiro de Software 🎯"
+  }
 }
-
-
-## 🌱 Em construção
-
-```bash
-
-> aprendendo...   Estruturas de dados & Algoritmos
-
-> praticando...   Projetos reais com Python e JS
-
-> focando em...   Boas práticas e código limpo
-
-> objetivo...     Engenheiro de Software 🎯
 
 ```
 
@@ -113,6 +98,8 @@ const lucas = {
 | 💼 LinkedIn | [linkedin.com/in/lucasrodrigues-rd](https://www.linkedin.com/in/lucasrodrigues-rd/) |
 
 | 📧 Email | [rdlucas61@gmail.com](mailto:rdlucas61@gmail.com) |
+
+| 📞 Telefone | 21 97716-4209 |
 
 </div>
 
